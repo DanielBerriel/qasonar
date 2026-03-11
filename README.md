@@ -1,22 +1,24 @@
-# QASonar
+# QASonar 🚢
 
-Um mini game educativo para testes de QA, com visual de sonar radar.
+Transforme seu aprendizado de QA em uma aventura náutica! Navegue pelas ondas do conhecimento e descubra o que anda escondido no profundo universo de testes de software.
 
-## Funcionalidades
+---
 
-- Sonar animado com 3 pontos clicáveis
-- 3 sessões de perguntas: Fundamentos de QA, Testes de API, Automação com Cypress
-- 5 perguntas por sessão
-- Feedback imediato (acerto/erro)
-- Resultados com explicações
+## Sobre 📋
 
-## Tecnologias
+Questionários sobre a área de QA para medir seu conhecimento e apontar o caminho para os seus estudos.
+
+---
+
+## Tecnologias 🛠️
 
 - React + TypeScript
 - Vite
 - CSS Animations
 
-## Como executar
+---
+
+## Como executar ▶️
 
 ```bash
 npm install
